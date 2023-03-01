@@ -1,0 +1,62 @@
+/*SCHEDA*/
+
+.container {
+    margin-top: 1rem;
+    margin-inline: auto;
+    height: 250px;
+    width: 200px;
+    background-image: url(/assets/imgs/honey.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+    background-color: cornsilk;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+}
+
+.description {
+    display: flex;
+    padding-top: 10rem;
+    padding-inline: 1rem;
+    margin-bottom: 1rem;
+    gap: 20px;
+}
+
+.a,
+.b {
+    text-align: center;
+    justify-content: baseline;
+}
+
+button {
+    display: flex;
+    margin: auto; 
+}
+
+/*NAV*/
+.container1 {
+    background-color: cornsilk;
+    padding: 1rem;
+    height: 20px;
+    border-radius: 25%;
+}
+
+nav{
+    display: flex;
+    gap: 1rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.5rem;
+}
+.c,
+.ape {
+    background-color: #e1cc43bc;
+    padding: 5px;
+    flex-grow: 1;
+    text-align: center;
+    border-radius: 25%;
+}
+
+
+
+
+
